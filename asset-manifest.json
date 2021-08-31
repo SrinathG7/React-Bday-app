@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Bday-app/static/css/main.e787bb8e.chunk.css",
+    "main.js": "/React-Bday-app/static/js/main.00ca9002.chunk.js",
+    "main.js.map": "/React-Bday-app/static/js/main.00ca9002.chunk.js.map",
+    "runtime-main.js": "/React-Bday-app/static/js/runtime-main.44342881.js",
+    "runtime-main.js.map": "/React-Bday-app/static/js/runtime-main.44342881.js.map",
+    "static/js/2.dd4d110e.chunk.js": "/React-Bday-app/static/js/2.dd4d110e.chunk.js",
+    "static/js/2.dd4d110e.chunk.js.map": "/React-Bday-app/static/js/2.dd4d110e.chunk.js.map",
+    "static/js/3.27df97b4.chunk.js": "/React-Bday-app/static/js/3.27df97b4.chunk.js",
+    "static/js/3.27df97b4.chunk.js.map": "/React-Bday-app/static/js/3.27df97b4.chunk.js.map",
+    "index.html": "/React-Bday-app/index.html",
+    "static/css/main.e787bb8e.chunk.css.map": "/React-Bday-app/static/css/main.e787bb8e.chunk.css.map",
+    "static/js/2.dd4d110e.chunk.js.LICENSE.txt": "/React-Bday-app/static/js/2.dd4d110e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44342881.js",
+    "static/js/2.dd4d110e.chunk.js",
+    "static/css/main.e787bb8e.chunk.css",
+    "static/js/main.00ca9002.chunk.js"
+  ]
+}
